@@ -32,9 +32,11 @@ I am a Computer Engineering undergraduate student at K.J. Somaiya College of Eng
 | `ML & AI` |  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NLTK](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)|
 <br/>
 
-
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsk1512&theme=dark" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=nsk1512&theme=dark" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=staticshreyas&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=nsk1512&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" />
+	
 
-<img src="https://activity-graph.herokuapp.com/graph?username=staticshreyas&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"/>
+</p>
 
