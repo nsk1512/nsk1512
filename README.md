@@ -8,14 +8,10 @@
 	<a href="https://www.instagram.com/nsk1512/?hl=en/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 		
 </p>
-  
-I am a Computer Engineering undergraduate student at K.J. Somaiya College of Engineering, Mumbai. Due to graduate in 2022, I am eager to pursue challenging roles in the field of technology. I love meeting new people and am excited to make an immediate difference in software engineering careers alongside my Tech community.
+I am a computer science graduate student at the University of Southern California.  I enjoy solving technical problems, researching, and designing software applications for different platforms. I love meeting new people and am excited to make an immediate difference in software engineering careers alongside my Tech community.
 
 <p align="center">
-🔭 I'm using AI and NLP to create remarkable intelligent applications.
-</p>
-<p align="center">
-🌱I'm now studying the intricacies of Blockchain Technology and the crypto-industry.
+🔭 I'm using Web Technologies and NLP to create remarkable intelligent applications.
 </p>
 <p align="center">
 💡 Available for internship opportunities.
