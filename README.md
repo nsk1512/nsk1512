@@ -11,10 +11,7 @@
 I am a computer science graduate student at the University of Southern California.  I enjoy solving technical problems, researching, and designing software applications for different platforms. I love meeting new people and am excited to make an immediate difference in software engineering careers alongside my Tech community.
 
 <p align="center">
-🔭 I'm using Web Technologies and NLP to create remarkable intelligent applications.
-</p>
-<p align="center">
-💡 Available for internship opportunities.
+💡 Available for summer 2024 internship opportunities.
 </p>
 <br />
 
